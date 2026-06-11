@@ -1,0 +1,30 @@
+name: Upworthy_A_B_test
+channels:
+  - conda-forge
+dependencies:
+  - dash
+  - flask
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter_server
+  - jupyterlab
+  - jupyterlab-git
+  - line_profiler
+  - lmfit
+  - matplotlib
+  - memory_profiler
+  - notebook
+  - notebook_intelligence
+  - numpy
+  - openpyxl
+  - pandas
+  - pipreqs
+  - plotly
+  - pyproj
+  - python=3.11
+  - scikit-learn
+  - scipy
+  - seaborn
+  - streamlit
+  - pip:

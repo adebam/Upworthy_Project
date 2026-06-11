@@ -1,0 +1,15 @@
+# Ignore all PNG files in these folders
+confidence_interval_plot/*.png
+confidence_interval_plots/*.png
+power_plots/*.png
+traffic_share_plots/*.png
+dunnett_tables/*.csv
+
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+master_table.zip
+master_table.zip
+*.zip
